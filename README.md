@@ -1,7 +1,7 @@
 This repository is a blog website project with database ffor the storing of new blogs, built using node, express, ejs, mongoDB and mongoose.
 
 
-1. Implemented basic functions
+1. Implemented basic functions such as
 
 (i) User can view all blogs available for reading whilst on the home.
 
